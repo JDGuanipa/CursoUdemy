@@ -1,3 +1,1 @@
 # CursoUdemy
-
-Author: Jonas Danielson
